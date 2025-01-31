@@ -1,4 +1,0 @@
-*Comprovante recebido* 🔖
-{link_comp}
-{data}
-{info}
